@@ -1,11 +1,11 @@
 # PAAS-TA-PORTAL-LOG-API
 ## 버전 정보
-Portal v2.0-FINAL - CF API만 제공하는 서비스로 수정중
+Portal V2.0-FINAL - CF API만 제공하는 서비스로 수정중
 
 
 ## Portal LOG API
 Portal LOG API 란? CF Tail 로그서비스를 위해서 별도의 서비스를 구현하였다.
-- v2.0 - 각각의 API 서비스로 제공(CF, DB, OBJECT STORAGE, LOG)
+- V2.0-FINAL - 각각의 API 서비스로 제공(CF, DB, OBJECT STORAGE, LOG)
 
 ## 유의사항
 
